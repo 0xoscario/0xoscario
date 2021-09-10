@@ -7,6 +7,7 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Web3](https://img.shields.io/badge/-Web3-05122A?style=flat&logo=web3.js)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
@@ -21,6 +22,8 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![MongoDb](https://img.shields.io/badge/MongoDB-05122A?style=flat-square&logo=mongodb)&nbsp;
+![Sql](https://img.shields.io/badge/Sql-05122A?style=flat-square&logo=mysql)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)\
 ![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=Solidity)&nbsp;
