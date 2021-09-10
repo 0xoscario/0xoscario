@@ -1,5 +1,5 @@
 <h1 align="center">
-⭐_Full Stack Blockchain Engineer_💧
+🎰_Full Stack Blockchain Engineer_🔥
 </h1>
 
 ### 🛠 &nbsp;Tech Stack
@@ -26,22 +26,6 @@
 ![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=Solidity)&nbsp;
 ![Ethereum](https://img.shields.io/badge/-Ethereum-05122A?style=flat&logo=Ethereum)
 ![Binance](https://img.shields.io/badge/-Binance-05122A?style=flat&logo=Binance)
-
-
-### 📊 Profile Status 
-<p align="center">
-  <a href="https://github.com/0xBlockchain">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xBlockchain&theme=blue-green&hide_langs_below=1&layout=compact" />
-  </a>
-</p>
-
-### 🔥 My contribution streak
-
-<p align="center">
-  <a href="https://github.com/0xBlockchain/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=0xBlockchain&theme=blue-green"/>
-  </a>
-</p>
 
 </div>
 
