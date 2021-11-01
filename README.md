@@ -28,11 +28,13 @@
 ![Heroku](https://img.shields.io/badge/Heroku-05122A?style=flat-square&logo=heroku&logoColor=white)&nbsp;
 ![Firebase](https://img.shields.io/badge/Firebase-05122A?style=flat-square&logo=firebase)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-05122A?style=flat-square&logo=linux)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;\
+![Ubuntu](https://img.shields.io/badge/Ubuntu-05122A?style=flat-square&logo=ubuntu)
+![Github](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github)&nbsp;\
 ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)&nbsp;
 ![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=Solidity)&nbsp;
 ![Ethereum](https://img.shields.io/badge/-Ethereum-05122A?style=flat&logo=Ethereum)&nbsp;
 ![Binance](https://img.shields.io/badge/-Binance-05122A?style=flat&logo=Binance)&nbsp;
-
+![Solana](https://img.shields.io/badge/-Solana-05122A?style=flat&logo=Solana)&nbsp;
+![Terra](https://img.shields.io/badge/-Terra-05122A?style=flat&logo=Terra)&nbsp;
 </div>
 
