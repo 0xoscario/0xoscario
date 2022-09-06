@@ -24,17 +24,20 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat-square&logo=graphql)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat-square&logo=MySQL)&nbsp;
 ![Postgres](https://img.shields.io/badge/PostgreSQL-05122A?style=flat-square&logo=postgresql)&nbsp;\
+![Akash](https://img.shields.io/badge/Akash-05122A?style=flat-square&logo=akash)&nbsp;
 ![AWS](https://img.shields.io/badge/AWS-05122A?style=flat-square&logo=amazon)&nbsp;
 ![Heroku](https://img.shields.io/badge/Heroku-05122A?style=flat-square&logo=heroku&logoColor=white)&nbsp;
 ![Firebase](https://img.shields.io/badge/Firebase-05122A?style=flat-square&logo=firebase)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-05122A?style=flat-square&logo=linux)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-05122A?style=flat-square&logo=ubuntu)
 ![Github](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github)&nbsp;\
+![Move](https://img.shields.io/badge/-Move-05122A?style=flat&logo=move)&nbsp;
 ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)&nbsp;
 ![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=Solidity)&nbsp;
 ![Ethereum](https://img.shields.io/badge/-Ethereum-05122A?style=flat&logo=Ethereum)&nbsp;
 ![Binance](https://img.shields.io/badge/-Binance-05122A?style=flat&logo=Binance)&nbsp;
 ![Solana](https://img.shields.io/badge/-Solana-05122A?style=flat&logo=Solana)&nbsp;
 ![Terra](https://img.shields.io/badge/-Terra-05122A?style=flat&logo=Terra)&nbsp;
+![Aptos](https://img.shields.io/badge/-Aptos-05122A?style=flat&logo=Aptos)&nbsp;
 </div>
 
